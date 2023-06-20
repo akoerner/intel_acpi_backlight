@@ -1,6 +1,6 @@
 # Intel sysfs ACPI Backlight Controller
 
-This is s simple shell script to control intel based display backlights via acpi
+This is a simple shell script to control intel based display backlights via acpi
 and sysfs
 
 ## Prerequisites
