@@ -1,9 +1,9 @@
 # Intel backlight controller
 
-This is s simple shell script to control
+This is s simple shell script to control intel based display backlights
 
 ## Prerequisites
-There are no special dependencies other then bash 
+There are no special dependencies other then bash and curl for installation.
 
 ## Installation
 To install the Intel acpi backlight tool run the following command:
