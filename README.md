@@ -8,12 +8,12 @@ There are no special dependencies other then bash
 ## Installation
 To install the Intel acpi backlight tool run the following command:
 ```bash
-curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/install.sh | bash -
+curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/install.sh | sudo bash -
 ```
 ## Uninstallion
 To uninstall the Intel acpi backlight tool run the following command:
 ```bash
-curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/uninstall.sh | bash -
+curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/uninstall.sh | sudo bash -
 ```
 
 > :warning: **Warning!**: Never run shell scripts that you do not trust especially as root!
