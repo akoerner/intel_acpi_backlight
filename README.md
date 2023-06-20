@@ -17,5 +17,4 @@ curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master
 ```
 
 > :warning: **Warning!**: Never run shell scripts that you do not trust especially as root!
-
  

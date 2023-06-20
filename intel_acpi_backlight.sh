@@ -71,7 +71,7 @@ NAME
 
 DESCRIPTION
 
-    This is a simple shell script to control backlight on Intel architecture. 
+    This is a simple shell script to control backlight for Intel sysfs acpi architecture. 
 
 USAGE
 
