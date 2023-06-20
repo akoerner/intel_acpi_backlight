@@ -19,7 +19,7 @@ if [[ -f "intel_acpi_backlight.sh" ]]; then
     cp intel_acpi_backlight.sh /usr/local/bin/backlight
 else
    check_command
-   curl -o /usr/local/bin URL
+   curl -o /usr/local/bin/backlight https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/intel_acpi_backlight.sh 
 fi
 
 chmod +x /usr/local/bin/backlight
