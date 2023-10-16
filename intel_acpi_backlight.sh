@@ -89,7 +89,7 @@ OPTIONS
     -u  --backlight-up     Increase backlight by: ${DEFAULT_STEP} steps
     -d  --backlight-down   Decrease backlight by: ${DEFAULT_STEP} steps
     -M  --backlight-max    Set backlight to max level of ${MAX_BACKLIGHT_VALUE} steps  
-    -m  --backlight-min    Set backlight to min level of v${MIN_BACKLIGHT_VALUE} steps
+    -m  --backlight-min    Set backlight to min level of ${MIN_BACKLIGHT_VALUE} steps
     -v, --backlight-value  Set backlight to specified value
     -s, --step             Set the step value for -u and -d   Default: ${DEFAULT_STEP}
 
