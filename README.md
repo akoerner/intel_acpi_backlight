@@ -11,6 +11,7 @@ To install the Intel acpi backlight tool run the following command:
 ```bash
 curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/install.sh | sudo bash -
 ```
+
 ## Uninstallion
 To uninstall the Intel acpi backlight tool run the following command:
 ```bash
@@ -21,6 +22,7 @@ curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master
 
 
 ## Comments
+This has been tested on several models of dell and thinkpads.
 This will probably work on other systems, as well as, with minimal modification 
 I just have no way of testing it. The "max" blacklight file 
 (MAX_BACKLIGHT_VALUE_FILE) and "blacklight" file (BACKLIGHT_VALUE_FILE) will 
