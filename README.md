@@ -11,6 +11,7 @@ To install the Intel acpi backlight tool run the following command:
 ```bash
 curl -sSL https://raw.githubusercontent.com/akoerner/intel_acpi_backlight/master/install.sh | sudo bash -
 ```
+
 ## Uninstallion
 To uninstall the Intel acpi backlight tool run the following command:
 ```bash
